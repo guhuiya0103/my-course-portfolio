@@ -7,9 +7,7 @@ This policy applies to current students and employees.
 
 ## Key definitions
 ### Academic integrity
-```
-Within an academic environment, “a commitment, even in the face of adversity, to six fundamental values: honesty, trust, fairness, respect, responsibility and courage.” From these values flow principles of behaviour that enable academic communities to translate ideals to action to ensure the credentials granted to students accurately reflect their demonstrated knowledge and abilities. 
-```
+> Within an academic environment, “a commitment, even in the face of adversity, to six fundamental values: honesty, trust, fairness, respect, responsibility and courage.” From these values flow principles of behaviour that enable academic communities to translate ideals to action to ensure the credentials granted to students accurately reflect their demonstrated knowledge and abilities. 
 
 ### Cheating
 Obtaining or attempting to get, or aiding another person to obtain, credit for work or improvement in performance evaluation by dishonest or deceptive means. Examples include, but are not limited to, self-plagiarism, impersonation, falsification, taking individual credit for group work, unauthorized collaborations and aids and undeclared AI use.  
